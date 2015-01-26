@@ -1,0 +1,33 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#Header {
+	font-family: 'Francois One', sans-serif;
+}
+
+#results {
+/*	background-color: green;*/
+
+}
+
+/*#table-row {
+	display: block;
+	width: 100%;
+}*/
+
+#results div{
+	display: inline-block;
+	width: 50%;
+	text-align: center;
+	font-size: 1.5em;
+	border-bottom: 1px solid gray;
+}
+
+#table-row > td{
+	display: inline-block;
+	text-align: center;
+	width: 50%;
+	margin: 0;
+	padding: 0;
+}
